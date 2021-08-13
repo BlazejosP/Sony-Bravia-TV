@@ -7,5 +7,5 @@ bravia-auth-and-remote ](https://github.com/breunigs/bravia-auth-and-remote). Th
  This sets of scripts were created to work with this TV which recive commands without authentication. Buttons set defined in BraviaCommands.sh is for tested TV they may be some variations between models but main buttons should be compatibile with various models. If your TV is also working with this script let me know on Issuses I will be happy addding them to list and my help with preparation of specific remote commands sets for your TV.
 
 ## Confirmed working on the following TV´s
-- [x] KDL-40EX720
+- [x] KDL-40EX720 https://www.sony.com/electronics/support/televisions-projectors-lcd-tvs/kdl-40ex720
 
