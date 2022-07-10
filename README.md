@@ -8,9 +8,9 @@ bravia-auth-and-remote ](https://github.com/breunigs/bravia-auth-and-remote). Th
 
 To use this software which is made in bash you need HTTPie
 on ubuntu like system install this with 
-
+```
 sudo apt-get install httpie
-
+```
 
 ## Confirmed working on the following TV´s
 - [x] KDL-40EX720 https://www.sony.com/electronics/support/televisions-projectors-lcd-tvs/kdl-40ex720
